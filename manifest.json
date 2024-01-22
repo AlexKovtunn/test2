@@ -1,0 +1,20 @@
+{
+  "background_color": "purple",
+  "description": "lojaportaldotricot TESTE",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "name": "lojaportaldotricot",
+  "short_name": "lojaportaldotricot",
+  "start_url": "/"
+}
